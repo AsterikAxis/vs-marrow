@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="marrowVibeTitle.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="marrowVibeTitle0000" x="0" y="0" width="481" height="645" frameX="0" frameY="-5" frameWidth="485" frameHeight="650"/>
+	<SubTexture name="marrowVibeTitle0001" x="501" y="0" width="485" height="645" frameX="0" frameY="-5" frameWidth="485" frameHeight="650"/>
+	<SubTexture name="marrowVibeTitle0002" x="1006" y="0" width="485" height="645" frameX="0" frameY="-5" frameWidth="485" frameHeight="650"/>
+	<SubTexture name="marrowVibeTitle0003" x="1511" y="0" width="481" height="645" frameX="0" frameY="-5" frameWidth="485" frameHeight="650"/>
+	<SubTexture name="marrowVibeTitle0004" x="2012" y="0" width="481" height="645" frameX="0" frameY="-5" frameWidth="485" frameHeight="650"/>
+	<SubTexture name="marrowVibeTitle0005" x="2513" y="0" width="481" height="647" frameX="0" frameY="-3" frameWidth="485" frameHeight="650"/>
+	<SubTexture name="marrowVibeTitle0006" x="2513" y="0" width="481" height="647" frameX="0" frameY="-3" frameWidth="485" frameHeight="650"/>
+	<SubTexture name="marrowVibeTitle0007" x="2513" y="0" width="481" height="647" frameX="0" frameY="-3" frameWidth="485" frameHeight="650"/>
+	<SubTexture name="marrowVibeTitle0008" x="3014" y="0" width="481" height="650" frameX="0" frameY="0" frameWidth="485" frameHeight="650"/>
+	<SubTexture name="marrowVibeTitle0009" x="3014" y="0" width="481" height="650" frameX="0" frameY="0" frameWidth="485" frameHeight="650"/>
+	<SubTexture name="marrowVibeTitle0010" x="3515" y="0" width="481" height="650" frameX="0" frameY="0" frameWidth="485" frameHeight="650"/>
+	<SubTexture name="marrowVibeTitle0011" x="3515" y="0" width="481" height="650" frameX="0" frameY="0" frameWidth="485" frameHeight="650"/>
+	<SubTexture name="marrowVibeTitle0012" x="3515" y="0" width="481" height="650" frameX="0" frameY="0" frameWidth="485" frameHeight="650"/>
+	<SubTexture name="marrowVibeTitle0013" x="0" y="670" width="481" height="650" frameX="0" frameY="0" frameWidth="485" frameHeight="650"/>
+	<SubTexture name="marrowVibeTitle0014" x="501" y="670" width="479" height="650" frameX="0" frameY="0" frameWidth="485" frameHeight="650"/>
+	<SubTexture name="marrowVibeTitle0015" x="1000" y="670" width="480" height="645" frameX="-2" frameY="-5" frameWidth="485" frameHeight="650"/>
+	<SubTexture name="marrowVibeTitle0016" x="1500" y="670" width="481" height="645" frameX="-4" frameY="-5" frameWidth="485" frameHeight="650"/>
+	<SubTexture name="marrowVibeTitle0017" x="2001" y="670" width="481" height="644" frameX="-4" frameY="-6" frameWidth="485" frameHeight="650"/>
+	<SubTexture name="marrowVibeTitle0018" x="2502" y="670" width="480" height="644" frameX="-2" frameY="-6" frameWidth="485" frameHeight="650"/>
+	<SubTexture name="marrowVibeTitle0019" x="3002" y="670" width="480" height="644" frameX="-2" frameY="-6" frameWidth="485" frameHeight="650"/>
+	<SubTexture name="marrowVibeTitle0020" x="3502" y="670" width="482" height="646" frameX="0" frameY="-4" frameWidth="485" frameHeight="650"/>
+	<SubTexture name="marrowVibeTitle0021" x="0" y="1340" width="481" height="646" frameX="0" frameY="-4" frameWidth="485" frameHeight="650"/>
+	<SubTexture name="marrowVibeTitle0022" x="0" y="1340" width="481" height="646" frameX="0" frameY="-4" frameWidth="485" frameHeight="650"/>
+	<SubTexture name="marrowVibeTitle0023" x="501" y="1340" width="481" height="649" frameX="0" frameY="-1" frameWidth="485" frameHeight="650"/>
+	<SubTexture name="marrowVibeTitle0024" x="501" y="1340" width="481" height="649" frameX="0" frameY="-1" frameWidth="485" frameHeight="650"/>
+	<SubTexture name="marrowVibeTitle0025" x="1002" y="1340" width="481" height="650" frameX="0" frameY="0" frameWidth="485" frameHeight="650"/>
+	<SubTexture name="marrowVibeTitle0026" x="1002" y="1340" width="481" height="650" frameX="0" frameY="0" frameWidth="485" frameHeight="650"/>
+	<SubTexture name="marrowVibeTitle0027" x="1002" y="1340" width="481" height="650" frameX="0" frameY="0" frameWidth="485" frameHeight="650"/>
+	<SubTexture name="marrowVibeTitle0028" x="1503" y="1340" width="481" height="650" frameX="0" frameY="0" frameWidth="485" frameHeight="650"/>
+	<SubTexture name="marrowVibeTitle0029" x="1503" y="1340" width="481" height="650" frameX="0" frameY="0" frameWidth="485" frameHeight="650"/>
+</TextureAtlas>

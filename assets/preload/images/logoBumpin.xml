@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="logoBumpin.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="logoBumpin0000" x="0" y="0" width="672" height="431" frameX="-17" frameY="-11" frameWidth="706" frameHeight="452"/>
+	<SubTexture name="logoBumpin0001" x="722" y="0" width="706" height="452"/>
+	<SubTexture name="logoBumpin0002" x="722" y="0" width="706" height="452"/>
+	<SubTexture name="logoBumpin0003" x="0" y="502" width="686" height="439" frameX="-10" frameY="-7" frameWidth="706" frameHeight="452"/>
+	<SubTexture name="logoBumpin0004" x="0" y="502" width="686" height="439" frameX="-10" frameY="-7" frameWidth="706" frameHeight="452"/>
+	<SubTexture name="logoBumpin0005" x="736" y="502" width="680" height="435" frameX="-13" frameY="-9" frameWidth="706" frameHeight="452"/>
+	<SubTexture name="logoBumpin0006" x="736" y="502" width="680" height="435" frameX="-13" frameY="-9" frameWidth="706" frameHeight="452"/>
+	<SubTexture name="logoBumpin0007" x="736" y="502" width="680" height="435" frameX="-13" frameY="-9" frameWidth="706" frameHeight="452"/>
+	<SubTexture name="logoBumpin0008" x="736" y="502" width="680" height="435" frameX="-13" frameY="-9" frameWidth="706" frameHeight="452"/>
+	<SubTexture name="logoBumpin0009" x="736" y="502" width="680" height="435" frameX="-13" frameY="-9" frameWidth="706" frameHeight="452"/>
+	<SubTexture name="logoBumpin0010" x="736" y="502" width="680" height="435" frameX="-13" frameY="-9" frameWidth="706" frameHeight="452"/>
+	<SubTexture name="logoBumpin0011" x="736" y="502" width="680" height="435" frameX="-13" frameY="-9" frameWidth="706" frameHeight="452"/>
+	<SubTexture name="logoBumpin0012" x="736" y="502" width="680" height="435" frameX="-13" frameY="-9" frameWidth="706" frameHeight="452"/>
+	<SubTexture name="logoBumpin0013" x="736" y="502" width="680" height="435" frameX="-13" frameY="-9" frameWidth="706" frameHeight="452"/>
+	<SubTexture name="logoBumpin0014" x="736" y="502" width="680" height="435" frameX="-13" frameY="-9" frameWidth="706" frameHeight="452"/>
+</TextureAtlas>

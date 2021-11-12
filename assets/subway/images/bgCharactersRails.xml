@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bgCharactersRails.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bgCharactersRails0000" x="0" y="0" width="3109" height="1135" frameX="0" frameY="0" frameWidth="3115" frameHeight="1135"/>
+	<SubTexture name="bgCharactersRails0001" x="0" y="0" width="3109" height="1135" frameX="0" frameY="0" frameWidth="3115" frameHeight="1135"/>
+	<SubTexture name="bgCharactersRails0002" x="3139" y="0" width="3115" height="1124" frameX="0" frameY="-11" frameWidth="3115" frameHeight="1135"/>
+	<SubTexture name="bgCharactersRails0003" x="3139" y="0" width="3115" height="1124" frameX="0" frameY="-11" frameWidth="3115" frameHeight="1135"/>
+	<SubTexture name="bgCharactersRails0004" x="0" y="1165" width="3113" height="1125" frameX="0" frameY="-10" frameWidth="3115" frameHeight="1135"/>
+	<SubTexture name="bgCharactersRails0005" x="0" y="1165" width="3113" height="1125" frameX="0" frameY="-10" frameWidth="3115" frameHeight="1135"/>
+	<SubTexture name="bgCharactersRails0006" x="3143" y="1165" width="3110" height="1131" frameX="-1" frameY="-4" frameWidth="3115" frameHeight="1135"/>
+	<SubTexture name="bgCharactersRails0007" x="3143" y="1165" width="3110" height="1131" frameX="-1" frameY="-4" frameWidth="3115" frameHeight="1135"/>
+	<SubTexture name="bgCharactersRails0008" x="0" y="2326" width="3109" height="1135" frameX="-1" frameY="0" frameWidth="3115" frameHeight="1135"/>
+	<SubTexture name="bgCharactersRails0009" x="0" y="2326" width="3109" height="1135" frameX="-1" frameY="0" frameWidth="3115" frameHeight="1135"/>
+	<SubTexture name="bgCharactersRails0010" x="0" y="0" width="3109" height="1135" frameX="0" frameY="0" frameWidth="3115" frameHeight="1135"/>
+	<SubTexture name="bgCharactersRails0011" x="0" y="0" width="3109" height="1135" frameX="0" frameY="0" frameWidth="3115" frameHeight="1135"/>
+	<SubTexture name="bgCharactersRails0012" x="0" y="0" width="3109" height="1135" frameX="0" frameY="0" frameWidth="3115" frameHeight="1135"/>
+	<SubTexture name="bgCharactersRails0013" x="0" y="0" width="3109" height="1135" frameX="0" frameY="0" frameWidth="3115" frameHeight="1135"/>
+	<SubTexture name="bgCharactersRails0014" x="0" y="0" width="3109" height="1135" frameX="0" frameY="0" frameWidth="3115" frameHeight="1135"/>
+</TextureAtlas>

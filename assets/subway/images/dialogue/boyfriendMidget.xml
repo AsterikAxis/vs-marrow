@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boyfriendMidget.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bfIdle0000" x="0" y="0" width="345" height="310"/>
+	<SubTexture name="bfNervous0000" x="365" y="0" width="345" height="310"/>
+	<SubTexture name="bfOfucc0000" x="730" y="0" width="345" height="317"/>
+	<SubTexture name="bfSurprised0000" x="1095" y="0" width="345" height="310"/>
+</TextureAtlas>

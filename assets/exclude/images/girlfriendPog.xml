@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="girlfriendPog.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="girlfriendHappy instance 10000" x="0" y="0" width="306" height="318"/>
+	<SubTexture name="girlfriendIdle instance 10000" x="326" y="0" width="306" height="318"/>
+</TextureAtlas>

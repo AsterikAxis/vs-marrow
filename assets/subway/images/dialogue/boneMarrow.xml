@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boneMarrow.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="marrowConfused0000" x="0" y="0" width="276" height="330"/>
+	<SubTexture name="marrowFriendly0000" x="296" y="0" width="276" height="330"/>
+	<SubTexture name="marrowHappy0000" x="592" y="0" width="276" height="330"/>
+	<SubTexture name="marrowNeutral0000" x="888" y="0" width="276" height="330"/>
+	<SubTexture name="marrowPissed0000" x="1184" y="0" width="276" height="330"/>
+	<SubTexture name="marrowSuspicious0000" x="1480" y="0" width="276" height="330"/>
+</TextureAtlas>

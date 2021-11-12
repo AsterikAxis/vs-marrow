@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="marrow_assets.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Marrow DOWN0000" x="0" y="0" width="332" height="665" frameX="0" frameY="-1" frameWidth="333" frameHeight="666"/>
+	<SubTexture name="Marrow DOWN0001" x="0" y="0" width="332" height="665" frameX="0" frameY="-1" frameWidth="333" frameHeight="666"/>
+	<SubTexture name="Marrow DOWN0002" x="362" y="0" width="329" height="665" frameX="-4" frameY="-1" frameWidth="333" frameHeight="666"/>
+	<SubTexture name="Marrow DOWN0003" x="362" y="0" width="329" height="665" frameX="-4" frameY="-1" frameWidth="333" frameHeight="666"/>
+	<SubTexture name="Marrow DOWN0004" x="721" y="0" width="328" height="666" frameX="-5" frameY="0" frameWidth="333" frameHeight="666"/>
+	<SubTexture name="Marrow DOWN0005" x="721" y="0" width="328" height="666" frameX="-5" frameY="0" frameWidth="333" frameHeight="666"/>
+	<SubTexture name="Marrow DOWN0006" x="1079" y="0" width="329" height="666" frameX="-4" frameY="0" frameWidth="333" frameHeight="666"/>
+	<SubTexture name="Marrow DOWN0007" x="1079" y="0" width="329" height="666" frameX="-4" frameY="0" frameWidth="333" frameHeight="666"/>
+	<SubTexture name="Marrow DOWN0008" x="1079" y="0" width="329" height="666" frameX="-4" frameY="0" frameWidth="333" frameHeight="666"/>
+	<SubTexture name="Marrow DOWN0009" x="1079" y="0" width="329" height="666" frameX="-4" frameY="0" frameWidth="333" frameHeight="666"/>
+	<SubTexture name="Marrow DOWN0010" x="1079" y="0" width="329" height="666" frameX="-4" frameY="0" frameWidth="333" frameHeight="666"/>
+	<SubTexture name="Marrow DOWN0011" x="1079" y="0" width="329" height="666" frameX="-4" frameY="0" frameWidth="333" frameHeight="666"/>
+	<SubTexture name="Marrow DOWN0012" x="1079" y="0" width="329" height="666" frameX="-4" frameY="0" frameWidth="333" frameHeight="666"/>
+	<SubTexture name="Marrow DOWN0013" x="1079" y="0" width="329" height="666" frameX="-4" frameY="0" frameWidth="333" frameHeight="666"/>
+	<SubTexture name="Marrow DOWN0014" x="1079" y="0" width="329" height="666" frameX="-4" frameY="0" frameWidth="333" frameHeight="666"/>
+	<SubTexture name="Marrow DOWN0015" x="1079" y="0" width="329" height="666" frameX="-4" frameY="0" frameWidth="333" frameHeight="666"/>
+	<SubTexture name="Marrow DOWN0016" x="1079" y="0" width="329" height="666" frameX="-4" frameY="0" frameWidth="333" frameHeight="666"/>
+	<SubTexture name="Marrow DOWN0017" x="1079" y="0" width="329" height="666" frameX="-4" frameY="0" frameWidth="333" frameHeight="666"/>
+	<SubTexture name="Marrow DOWN0018" x="1079" y="0" width="329" height="666" frameX="-4" frameY="0" frameWidth="333" frameHeight="666"/>
+	<SubTexture name="Marrow DOWN0019" x="1079" y="0" width="329" height="666" frameX="-4" frameY="0" frameWidth="333" frameHeight="666"/>
+	<SubTexture name="Marrow Idle0000" x="1438" y="0" width="333" height="693" frameX="-2" frameY="0" frameWidth="335" frameHeight="693"/>
+	<SubTexture name="Marrow Idle0001" x="1438" y="0" width="333" height="693" frameX="-2" frameY="0" frameWidth="335" frameHeight="693"/>
+	<SubTexture name="Marrow Idle0002" x="1801" y="0" width="327" height="685" frameX="0" frameY="-8" frameWidth="335" frameHeight="693"/>
+	<SubTexture name="Marrow Idle0003" x="1801" y="0" width="327" height="685" frameX="0" frameY="-8" frameWidth="335" frameHeight="693"/>
+	<SubTexture name="Marrow Idle0004" x="2158" y="0" width="326" height="685" frameX="-1" frameY="-8" frameWidth="335" frameHeight="693"/>
+	<SubTexture name="Marrow Idle0005" x="2158" y="0" width="326" height="685" frameX="-1" frameY="-8" frameWidth="335" frameHeight="693"/>
+	<SubTexture name="Marrow Idle0006" x="2514" y="0" width="326" height="687" frameX="-2" frameY="-6" frameWidth="335" frameHeight="693"/>
+	<SubTexture name="Marrow Idle0007" x="2514" y="0" width="326" height="687" frameX="-2" frameY="-6" frameWidth="335" frameHeight="693"/>
+	<SubTexture name="Marrow Idle0008" x="2870" y="0" width="330" height="690" frameX="-2" frameY="-3" frameWidth="335" frameHeight="693"/>
+	<SubTexture name="Marrow Idle0009" x="2870" y="0" width="330" height="690" frameX="-2" frameY="-3" frameWidth="335" frameHeight="693"/>
+	<SubTexture name="Marrow Idle0010" x="3230" y="0" width="331" height="693" frameX="-3" frameY="0" frameWidth="335" frameHeight="693"/>
+	<SubTexture name="Marrow Idle0011" x="3230" y="0" width="331" height="693" frameX="-3" frameY="0" frameWidth="335" frameHeight="693"/>
+	<SubTexture name="Marrow Idle0012" x="3591" y="0" width="332" height="693" frameX="-3" frameY="0" frameWidth="335" frameHeight="693"/>
+	<SubTexture name="Marrow Idle0013" x="1438" y="0" width="333" height="693" frameX="-2" frameY="0" frameWidth="335" frameHeight="693"/>
+	<SubTexture name="Marrow Idle0014" x="1438" y="0" width="333" height="693" frameX="-2" frameY="0" frameWidth="335" frameHeight="693"/>
+	<SubTexture name="Marrow Idle0015" x="1438" y="0" width="333" height="693" frameX="-2" frameY="0" frameWidth="335" frameHeight="693"/>
+	<SubTexture name="Marrow LEFT0000" x="0" y="723" width="332" height="684" frameX="-4" frameY="-2" frameWidth="336" frameHeight="686"/>
+	<SubTexture name="Marrow LEFT0001" x="0" y="723" width="332" height="684" frameX="-4" frameY="-2" frameWidth="336" frameHeight="686"/>
+	<SubTexture name="Marrow LEFT0002" x="362" y="723" width="335" height="686" frameX="-1" frameY="0" frameWidth="336" frameHeight="686"/>
+	<SubTexture name="Marrow LEFT0003" x="362" y="723" width="335" height="686" frameX="-1" frameY="0" frameWidth="336" frameHeight="686"/>
+	<SubTexture name="Marrow LEFT0004" x="727" y="723" width="336" height="686"/>
+	<SubTexture name="Marrow LEFT0005" x="727" y="723" width="336" height="686"/>
+	<SubTexture name="Marrow LEFT0006" x="1093" y="723" width="336" height="686"/>
+	<SubTexture name="Marrow LEFT0007" x="1093" y="723" width="336" height="686"/>
+	<SubTexture name="Marrow LEFT0008" x="1093" y="723" width="336" height="686"/>
+	<SubTexture name="Marrow LEFT0009" x="1093" y="723" width="336" height="686"/>
+	<SubTexture name="Marrow LEFT0010" x="1093" y="723" width="336" height="686"/>
+	<SubTexture name="Marrow LEFT0011" x="1093" y="723" width="336" height="686"/>
+	<SubTexture name="Marrow LEFT0012" x="1093" y="723" width="336" height="686"/>
+	<SubTexture name="Marrow LEFT0013" x="1093" y="723" width="336" height="686"/>
+	<SubTexture name="Marrow LEFT0014" x="1093" y="723" width="336" height="686"/>
+	<SubTexture name="Marrow LEFT0015" x="1093" y="723" width="336" height="686"/>
+	<SubTexture name="Marrow LEFT0016" x="1093" y="723" width="336" height="686"/>
+	<SubTexture name="Marrow LEFT0017" x="1093" y="723" width="336" height="686"/>
+	<SubTexture name="Marrow LEFT0018" x="1093" y="723" width="336" height="686"/>
+	<SubTexture name="Marrow LEFT0019" x="1093" y="723" width="336" height="686"/>
+	<SubTexture name="Marrow RAILS0000" x="1459" y="723" width="538" height="684" frameX="-19" frameY="-3" frameWidth="558" frameHeight="687"/>
+	<SubTexture name="Marrow RAILS0001" x="2027" y="723" width="507" height="684" frameX="-50" frameY="-3" frameWidth="558" frameHeight="687"/>
+	<SubTexture name="Marrow RAILS0002" x="2564" y="723" width="509" height="684" frameX="-48" frameY="-3" frameWidth="558" frameHeight="687"/>
+	<SubTexture name="Marrow RAILS0003" x="3103" y="723" width="538" height="684" frameX="-19" frameY="-3" frameWidth="558" frameHeight="687"/>
+	<SubTexture name="Marrow RAILS0004" x="2027" y="723" width="507" height="684" frameX="-50" frameY="-3" frameWidth="558" frameHeight="687"/>
+	<SubTexture name="Marrow RAILS0005" x="0" y="1439" width="509" height="684" frameX="-48" frameY="-3" frameWidth="558" frameHeight="687"/>
+	<SubTexture name="Marrow RAILS0006" x="3103" y="723" width="538" height="684" frameX="-19" frameY="-3" frameWidth="558" frameHeight="687"/>
+	<SubTexture name="Marrow RAILS0007" x="539" y="1439" width="507" height="684" frameX="-50" frameY="-3" frameWidth="558" frameHeight="687"/>
+	<SubTexture name="Marrow RAILS0008" x="0" y="1439" width="509" height="684" frameX="-48" frameY="-3" frameWidth="558" frameHeight="687"/>
+	<SubTexture name="Marrow RAILS0009" x="1459" y="723" width="538" height="684" frameX="-19" frameY="-3" frameWidth="558" frameHeight="687"/>
+	<SubTexture name="Marrow RAILS0010" x="539" y="1439" width="507" height="684" frameX="-50" frameY="-3" frameWidth="558" frameHeight="687"/>
+	<SubTexture name="Marrow RAILS0011" x="2564" y="723" width="509" height="684" frameX="-48" frameY="-3" frameWidth="558" frameHeight="687"/>
+	<SubTexture name="Marrow RAILS0012" x="1076" y="1439" width="538" height="684" frameX="-17" frameY="-3" frameWidth="558" frameHeight="687"/>
+	<SubTexture name="Marrow RAILS0013" x="1644" y="1439" width="537" height="685" frameX="-17" frameY="-2" frameWidth="558" frameHeight="687"/>
+	<SubTexture name="Marrow RAILS0014" x="2211" y="1439" width="535" height="686" frameX="-18" frameY="-1" frameWidth="558" frameHeight="687"/>
+	<SubTexture name="Marrow RAILS0015" x="2776" y="1439" width="530" height="686" frameX="-22" frameY="-1" frameWidth="558" frameHeight="687"/>
+	<SubTexture name="Marrow RAILS0016" x="3336" y="1439" width="528" height="687" frameX="-24" frameY="0" frameWidth="558" frameHeight="687"/>
+	<SubTexture name="Marrow RAILS0017" x="0" y="2156" width="523" height="687" frameX="-29" frameY="0" frameWidth="558" frameHeight="687"/>
+	<SubTexture name="Marrow RAILS0018" x="553" y="2156" width="522" height="687" frameX="-30" frameY="0" frameWidth="558" frameHeight="687"/>
+	<SubTexture name="Marrow RAILS0019" x="1105" y="2156" width="522" height="687" frameX="-30" frameY="0" frameWidth="558" frameHeight="687"/>
+	<SubTexture name="Marrow RAILS0020" x="1105" y="2156" width="522" height="687" frameX="-30" frameY="0" frameWidth="558" frameHeight="687"/>
+	<SubTexture name="Marrow RAILS0021" x="1105" y="2156" width="522" height="687" frameX="-30" frameY="0" frameWidth="558" frameHeight="687"/>
+	<SubTexture name="Marrow RAILS0022" x="1105" y="2156" width="522" height="687" frameX="-30" frameY="0" frameWidth="558" frameHeight="687"/>
+	<SubTexture name="Marrow RAILS0023" x="1105" y="2156" width="522" height="687" frameX="-30" frameY="0" frameWidth="558" frameHeight="687"/>
+	<SubTexture name="Marrow RAILS0024" x="1105" y="2156" width="522" height="687" frameX="-30" frameY="0" frameWidth="558" frameHeight="687"/>
+	<SubTexture name="Marrow RAILS0025" x="1105" y="2156" width="522" height="687" frameX="-30" frameY="0" frameWidth="558" frameHeight="687"/>
+	<SubTexture name="Marrow RAILS0026" x="1105" y="2156" width="522" height="687" frameX="-30" frameY="0" frameWidth="558" frameHeight="687"/>
+	<SubTexture name="Marrow RAILS0027" x="1105" y="2156" width="522" height="687" frameX="-30" frameY="0" frameWidth="558" frameHeight="687"/>
+	<SubTexture name="Marrow RAILS0028" x="1105" y="2156" width="522" height="687" frameX="-30" frameY="0" frameWidth="558" frameHeight="687"/>
+	<SubTexture name="Marrow RAILS0029" x="1105" y="2156" width="522" height="687" frameX="-30" frameY="0" frameWidth="558" frameHeight="687"/>
+	<SubTexture name="Marrow RIGHT0000" x="1657" y="2156" width="449" height="690" frameX="0" frameY="-4" frameWidth="449" frameHeight="695"/>
+	<SubTexture name="Marrow RIGHT0001" x="1657" y="2156" width="449" height="690" frameX="0" frameY="-4" frameWidth="449" frameHeight="695"/>
+	<SubTexture name="Marrow RIGHT0002" x="2136" y="2156" width="447" height="693" frameX="-1" frameY="-2" frameWidth="449" frameHeight="695"/>
+	<SubTexture name="Marrow RIGHT0003" x="2136" y="2156" width="447" height="693" frameX="-1" frameY="-2" frameWidth="449" frameHeight="695"/>
+	<SubTexture name="Marrow RIGHT0004" x="2613" y="2156" width="445" height="694" frameX="-2" frameY="-1" frameWidth="449" frameHeight="695"/>
+	<SubTexture name="Marrow RIGHT0005" x="2613" y="2156" width="445" height="694" frameX="-2" frameY="-1" frameWidth="449" frameHeight="695"/>
+	<SubTexture name="Marrow RIGHT0006" x="3088" y="2156" width="445" height="695" frameX="-2" frameY="0" frameWidth="449" frameHeight="695"/>
+	<SubTexture name="Marrow RIGHT0007" x="3088" y="2156" width="445" height="695" frameX="-2" frameY="0" frameWidth="449" frameHeight="695"/>
+	<SubTexture name="Marrow RIGHT0008" x="3088" y="2156" width="445" height="695" frameX="-2" frameY="0" frameWidth="449" frameHeight="695"/>
+	<SubTexture name="Marrow RIGHT0009" x="3088" y="2156" width="445" height="695" frameX="-2" frameY="0" frameWidth="449" frameHeight="695"/>
+	<SubTexture name="Marrow RIGHT0010" x="3088" y="2156" width="445" height="695" frameX="-2" frameY="0" frameWidth="449" frameHeight="695"/>
+	<SubTexture name="Marrow RIGHT0011" x="3088" y="2156" width="445" height="695" frameX="-2" frameY="0" frameWidth="449" frameHeight="695"/>
+	<SubTexture name="Marrow RIGHT0012" x="3088" y="2156" width="445" height="695" frameX="-2" frameY="0" frameWidth="449" frameHeight="695"/>
+	<SubTexture name="Marrow RIGHT0013" x="3088" y="2156" width="445" height="695" frameX="-2" frameY="0" frameWidth="449" frameHeight="695"/>
+	<SubTexture name="Marrow RIGHT0014" x="3088" y="2156" width="445" height="695" frameX="-2" frameY="0" frameWidth="449" frameHeight="695"/>
+	<SubTexture name="Marrow RIGHT0015" x="3088" y="2156" width="445" height="695" frameX="-2" frameY="0" frameWidth="449" frameHeight="695"/>
+	<SubTexture name="Marrow RIGHT0016" x="3088" y="2156" width="445" height="695" frameX="-2" frameY="0" frameWidth="449" frameHeight="695"/>
+	<SubTexture name="Marrow RIGHT0017" x="3088" y="2156" width="445" height="695" frameX="-2" frameY="0" frameWidth="449" frameHeight="695"/>
+	<SubTexture name="Marrow RIGHT0018" x="3088" y="2156" width="445" height="695" frameX="-2" frameY="0" frameWidth="449" frameHeight="695"/>
+	<SubTexture name="Marrow RIGHT0019" x="3088" y="2156" width="445" height="695" frameX="-2" frameY="0" frameWidth="449" frameHeight="695"/>
+	<SubTexture name="Marrow UP0000" x="3563" y="2156" width="396" height="709" frameX="-7" frameY="0" frameWidth="407" frameHeight="709"/>
+	<SubTexture name="Marrow UP0001" x="3563" y="2156" width="396" height="709" frameX="-7" frameY="0" frameWidth="407" frameHeight="709"/>
+	<SubTexture name="Marrow UP0002" x="0" y="2895" width="404" height="708" frameX="-2" frameY="-1" frameWidth="407" frameHeight="709"/>
+	<SubTexture name="Marrow UP0003" x="0" y="2895" width="404" height="708" frameX="-2" frameY="-1" frameWidth="407" frameHeight="709"/>
+	<SubTexture name="Marrow UP0004" x="434" y="2895" width="406" height="708" frameX="-1" frameY="-1" frameWidth="407" frameHeight="709"/>
+	<SubTexture name="Marrow UP0005" x="434" y="2895" width="406" height="708" frameX="-1" frameY="-1" frameWidth="407" frameHeight="709"/>
+	<SubTexture name="Marrow UP0006" x="870" y="2895" width="407" height="708" frameX="0" frameY="-1" frameWidth="407" frameHeight="709"/>
+	<SubTexture name="Marrow UP0007" x="870" y="2895" width="407" height="708" frameX="0" frameY="-1" frameWidth="407" frameHeight="709"/>
+	<SubTexture name="Marrow UP0008" x="870" y="2895" width="407" height="708" frameX="0" frameY="-1" frameWidth="407" frameHeight="709"/>
+	<SubTexture name="Marrow UP0009" x="870" y="2895" width="407" height="708" frameX="0" frameY="-1" frameWidth="407" frameHeight="709"/>
+	<SubTexture name="Marrow UP0010" x="870" y="2895" width="407" height="708" frameX="0" frameY="-1" frameWidth="407" frameHeight="709"/>
+	<SubTexture name="Marrow UP0011" x="870" y="2895" width="407" height="708" frameX="0" frameY="-1" frameWidth="407" frameHeight="709"/>
+	<SubTexture name="Marrow UP0012" x="870" y="2895" width="407" height="708" frameX="0" frameY="-1" frameWidth="407" frameHeight="709"/>
+	<SubTexture name="Marrow UP0013" x="870" y="2895" width="407" height="708" frameX="0" frameY="-1" frameWidth="407" frameHeight="709"/>
+	<SubTexture name="Marrow UP0014" x="870" y="2895" width="407" height="708" frameX="0" frameY="-1" frameWidth="407" frameHeight="709"/>
+	<SubTexture name="Marrow UP0015" x="870" y="2895" width="407" height="708" frameX="0" frameY="-1" frameWidth="407" frameHeight="709"/>
+	<SubTexture name="Marrow UP0016" x="870" y="2895" width="407" height="708" frameX="0" frameY="-1" frameWidth="407" frameHeight="709"/>
+	<SubTexture name="Marrow UP0017" x="870" y="2895" width="407" height="708" frameX="0" frameY="-1" frameWidth="407" frameHeight="709"/>
+	<SubTexture name="Marrow UP0018" x="870" y="2895" width="407" height="708" frameX="0" frameY="-1" frameWidth="407" frameHeight="709"/>
+	<SubTexture name="Marrow UP0019" x="870" y="2895" width="407" height="708" frameX="0" frameY="-1" frameWidth="407" frameHeight="709"/>
+</TextureAtlas>

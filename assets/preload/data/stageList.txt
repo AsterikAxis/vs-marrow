@@ -1,0 +1,4 @@
+stage
+school
+schoolEvil
+subway
